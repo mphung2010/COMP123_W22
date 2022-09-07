@@ -1,0 +1,15 @@
+/Users/phungmyduyen/Desktop/COMP123 Programming II/123a2/tweetprj/obj/Debug/net5.0/tweetprj.csproj.AssemblyReference.cache
+/Users/phungmyduyen/Desktop/COMP123 Programming II/123a2/tweetprj/obj/Debug/net5.0/tweetprj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phungmyduyen/Desktop/COMP123 Programming II/123a2/tweetprj/obj/Debug/net5.0/tweetprj.AssemblyInfoInputs.cache
+/Users/phungmyduyen/Desktop/COMP123 Programming II/123a2/tweetprj/obj/Debug/net5.0/tweetprj.AssemblyInfo.cs
+/Users/phungmyduyen/Desktop/COMP123 Programming II/123a2/tweetprj/obj/Debug/net5.0/tweetprj.csproj.CoreCompileInputs.cache
+/Users/phungmyduyen/Desktop/COMP123 Programming II/123a2/tweetprj/bin/Debug/net5.0/tweetprj.deps.json
+/Users/phungmyduyen/Desktop/COMP123 Programming II/123a2/tweetprj/bin/Debug/net5.0/tweetprj.runtimeconfig.json
+/Users/phungmyduyen/Desktop/COMP123 Programming II/123a2/tweetprj/bin/Debug/net5.0/tweetprj.runtimeconfig.dev.json
+/Users/phungmyduyen/Desktop/COMP123 Programming II/123a2/tweetprj/bin/Debug/net5.0/tweetprj.dll
+/Users/phungmyduyen/Desktop/COMP123 Programming II/123a2/tweetprj/bin/Debug/net5.0/ref/tweetprj.dll
+/Users/phungmyduyen/Desktop/COMP123 Programming II/123a2/tweetprj/bin/Debug/net5.0/tweetprj.pdb
+/Users/phungmyduyen/Desktop/COMP123 Programming II/123a2/tweetprj/obj/Debug/net5.0/tweetprj.dll
+/Users/phungmyduyen/Desktop/COMP123 Programming II/123a2/tweetprj/obj/Debug/net5.0/ref/tweetprj.dll
+/Users/phungmyduyen/Desktop/COMP123 Programming II/123a2/tweetprj/obj/Debug/net5.0/tweetprj.pdb
+/Users/phungmyduyen/Desktop/COMP123 Programming II/123a2/tweetprj/obj/Debug/net5.0/tweetprj.genruntimeconfig.cache
